@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm [Viraj Vijay Jadhav]  
+### 👋 Hey there! I'm Viraj Vijay Jadhav
 I'm a passionate IT Engineering student and aspiring Full-Stack Developer.  
 I love building web applications, learning new tech, and solving real-world problems.
 
