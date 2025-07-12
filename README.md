@@ -7,7 +7,7 @@ I'm passionate about building impactful web applications, diving deep into syste
 
 ### 🛠️ Tech Stack & Proficiencies
 
-#### 💻 Languages & Concepts  
+#### 💻 Languages & Core Concepts  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
 ![Java](https://img.shields.io/badge/-Core%20Java-007396?style=flat-square&logo=java)  
@@ -17,7 +17,7 @@ I'm passionate about building impactful web applications, diving deep into syste
 ![OOP](https://img.shields.io/badge/-OOPs-5C2D91?style=flat-square)  
 ![DSA](https://img.shields.io/badge/-DSA-important?style=flat-square)
 
-#### 🌐 Web & Backend  
+#### 🌐 Web & Backend Development  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
@@ -26,7 +26,7 @@ I'm passionate about building impactful web applications, diving deep into syste
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
-#### ⚙️ DevOps & Tools  
+#### ⚙️ DevOps, OS & Tools  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 ![Windows](https://img.shields.io/badge/-Windows%2010/11-0078D6?style=flat-square&logo=windows)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
@@ -35,7 +35,7 @@ I'm passionate about building impactful web applications, diving deep into syste
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat-square)  
 ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-00C7B7?style=flat-square)
 
-#### 🧠 Computer Science  
+#### 🧠 Computer Science Fundamentals  
 ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-blueviolet?style=flat-square)  
 ![Operating System](https://img.shields.io/badge/-Operating%20System-critical?style=flat-square)  
 ![System Design](https://img.shields.io/badge/-System%20Design-success?style=flat-square)
@@ -79,4 +79,4 @@ I'm passionate about building impactful web applications, diving deep into syste
 
 ---
 
-⭐ _Thanks for visiting my profile! Let's build something amazing together._  
+⭐ _Thanks for visiting my profile! Let's build something amazing together._
