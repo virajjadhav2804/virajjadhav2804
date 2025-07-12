@@ -1,82 +1,98 @@
-### 👋 Hey there! I'm Viraj Vijay Jadhav  
-🎓 IT Engineering Student | 💻 Full-Stack Developer | 🚀 DevOps Enthusiast  
+---
 
-I'm passionate about building impactful web applications, diving deep into system-level concepts, and solving real-world problems through code. I love working across the stack, from **C++ logic to DevOps pipelines**, and I'm always excited to learn, build, and share.
+### 🔍 Tech Details
 
 ---
 
-### 🛠️ Tech Stack & Proficiencies
+### 🧠 C Language <a name="c-language"></a>
+![C Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg)
 
-#### 💻 Languages & Core Concepts  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Core%20Java-007396?style=flat-square&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-![OOP](https://img.shields.io/badge/-OOPs-5C2D91?style=flat-square)  
-![DSA](https://img.shields.io/badge/-DSA-important?style=flat-square)
+**C** is a powerful procedural programming language that forms the backbone of many modern systems like:
+- Operating Systems (e.g., Linux Kernel)
+- Embedded Systems
+- Compiler development
 
-#### 🌐 Web & Backend Development  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+✅ **Key Concepts:**
+- Pointers & Memory Management  
+- Structs & Unions  
+- Functions & Recursion  
+- Speed & Low-level Access
 
-#### 💾 Databases  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-
-#### ⚙️ DevOps, OS & Tools  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![Windows](https://img.shields.io/badge/-Windows%2010/11-0078D6?style=flat-square&logo=windows)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)  
-![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat-square)  
-![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-00C7B7?style=flat-square)
-
-#### 🧠 Computer Science Fundamentals  
-![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-blueviolet?style=flat-square)  
-![Operating System](https://img.shields.io/badge/-Operating%20System-critical?style=flat-square)  
-![System Design](https://img.shields.io/badge/-System%20Design-success?style=flat-square)
+🔧 Used for: System programming, OS development, embedded software
 
 ---
 
-### 📈 GitHub Stats
+### 🧠 C++ <a name="cpp"></a>
+![C++ Logo](https://isocpp.org/assets/images/cpp_logo.png)
 
-![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)](https://github.com/yourusername)
+**C++** builds on C by adding **Object-Oriented Programming (OOP)**. It combines the **power of low-level memory access with high-level features**.
 
----
+✅ **Key Concepts:**
+- Classes & Objects  
+- Inheritance, Polymorphism  
+- Templates (Generic Programming)  
+- STL (Standard Template Library)
 
-### 🧑‍💻 Projects I'm Proud Of
-
-- 🥦 [AgroFix Platform](https://github.com/yourusername/agrofix)  
-  _Bulk vegetable/fruit ordering system using **Next.js + PostgreSQL**_
-
-- 💱 [Currency Converter](https://github.com/yourusername/currency-converter)  
-  _Simple and accurate currency converter built with **Java & HTML**_
-
-- 🧮 [DSA Practice](https://github.com/yourusername/DSA-practice)  
-  _My journey mastering **Data Structures & Algorithms**_
+🔧 Used for: Game Engines, Real-Time Systems, High-performance apps
 
 ---
 
-### 💡 Current Goals
+### ☕ Java <a name="java"></a>
+![Java](https://cdn.worldvectorlogo.com/logos/java.svg)
 
-- 📚 Master Spring Boot and microservices architecture  
-- 🛠️ Build and deploy projects using CI/CD pipelines  
-- ☁️ Get hands-on with AWS and advanced cloud tools  
-- 🧠 Deepen knowledge in OS, CN, and system design
+**Java** is a high-level, object-oriented language with a **"write once, run anywhere"** philosophy due to its JVM (Java Virtual Machine).
 
----
+✅ **Key Concepts:**
+- OOP: Classes, Objects, Inheritance  
+- Exception Handling  
+- Multi-threading  
+- JDBC, Servlets (backend)
 
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/viraj-jadhav2804)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://yourportfolio.com)  
+🔧 Used for: Backend Development, Android, Enterprise Software
 
 ---
 
-⭐ _Thanks for visiting my profile! Let's build something amazing together._
+### 🌐 JavaScript <a name="javascript"></a>
+![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+
+**JavaScript** powers the web! It’s the most widely used scripting language for building **dynamic web apps**.
+
+✅ **Key Concepts:**
+- DOM Manipulation  
+- Event-driven Programming  
+- Asynchronous JS (Promises, Async/Await)  
+- Frameworks: React, Next.js
+
+🔧 Used for: Web, Frontend, Full-Stack Apps
+
+---
+
+### 🌍 HTML5 <a name="html5"></a>
+![HTML5 Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+
+**HTML5** is the backbone of web content. It defines the structure of a web page.
+
+✅ **Key Concepts:**
+- Semantic Elements (`<header>`, `<footer>`)  
+- Forms & Input Types  
+- Media (`<audio>`, `<video>`)  
+- Canvas API for drawing
+
+🔧 Used for: Web Page Layout, Browser Rendering
+
+---
+
+### 🎨 CSS3 <a name="css3"></a>
+![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+
+**CSS3** is used to style and beautify web pages. It adds colors, layouts, animations, and responsiveness.
+
+✅ **Key Concepts:**
+- Flexbox & Grid  
+- Media Queries  
+- Animations  
+- Pseudo-classes
+
+🔧 Used for: UI Design, Web Styling, Responsive Design
+
+---
