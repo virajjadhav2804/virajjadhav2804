@@ -123,6 +123,12 @@ I'm passionate about building impactful web applications, diving deep into syste
 - *Uses:* Great tool for travelers, businesses, or students needing quick conversions.
 - *GitHub Repo:* [Currency Converter](https://github.com/virajjadhav2804/currency-converter)
 
+#### 🖼️ Image Encryption and Decryption
+- *Description:* A secure desktop tool to encrypt and decrypt image files using basic cryptographic techniques.
+- *Technologies Used:* Java, Swing
+- *Uses:* Ensures sensitive images remain private, ideal for personal or institutional image protection.
+- *GitHub Repo:* [Image Encryption & Decryption](https://github.com/virajjadhav2804/image-encryption-and-decryption)
+
 ---
 
 ### 💡 Current Goals
