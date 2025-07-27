@@ -103,19 +103,19 @@ I'm passionate about building impactful web applications, diving deep into syste
 - *Description:* A utility tool to generate secure and customizable passwords using a mix of characters, digits, and symbols.
 - *Technologies Used:* HTML, CSS, JavaScript
 - *Uses:* Helps users generate strong passwords for enhanced security across websites and apps.
-- *GitHub Repo:* [Random Password Generator](https://github.com/virajjadhav2804/random-password-generator)
+- *GitHub Repo:* [Random Password Generator](https://github.com/virajjadhav2804/RandomPasswordGeneratingSystem)
 
 #### 🏥 Patient Management System
 - *Description:* A desktop-based application to manage patient records including patient registration, diagnosis, and history tracking.
 - *Technologies Used:* Java, Swing, MySQL
 - *Uses:* Ideal for clinics and small hospitals to digitize patient recordkeeping and reduce manual errors.
-- *GitHub Repo:* [Patient Management System](https://github.com/virajjadhav2804/patient-management-system)
+- *GitHub Repo:* [Patient Management System](https://github.com/virajjadhav2804/Patient-Management-System)
 
 #### 🚗 Vehicle Counting System
 - *Description:* Real-time vehicle detection and counting system using video stream or camera footage.
 - *Technologies Used:* Python, OpenCV
 - *Uses:* Useful for traffic analysis, parking systems, and smart city infrastructure.
-- *GitHub Repo:* [Vehicle Counting System](https://github.com/virajjadhav2804/vehicle-counting-system)
+- *GitHub Repo:* [Vehicle Counting System](https://github.com/virajjadhav2804/VehicleCountingSystem)
 
 #### 💱 Currency Converter
 - *Description:* A simple and effective currency converter that calculates live exchange between currencies.
@@ -127,7 +127,7 @@ I'm passionate about building impactful web applications, diving deep into syste
 - *Description:* A secure desktop tool to encrypt and decrypt image files using basic cryptographic techniques.
 - *Technologies Used:* Java, Swing
 - *Uses:* Ensures sensitive images remain private, ideal for personal or institutional image protection.
-- *GitHub Repo:* [Image Encryption & Decryption](https://github.com/virajjadhav2804/image-encryption-and-decryption)
+- *GitHub Repo:* [Image Encryption & Decryption](https://github.com/virajjadhav2804/Image-Encryption-And-Decryption)
 
 ---
 
@@ -137,5 +137,5 @@ I'm passionate about building impactful web applications, diving deep into syste
 - ☁ Get hands-on with AWS and advanced cloud tools  
 - 🧠 Deepen knowledge in OS, CN, and system design
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://bit.ly/Viraj_Jadhav2804)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viraj-jadhav-690b8b259/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/virajjadhav2804)
